@@ -1,0 +1,7 @@
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\PrintHelloWorld\bin\Debug\PrintHelloWorld.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\PrintHelloWorld\bin\Debug\PrintHelloWorld.pdb
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\PrintHelloWorld\obj\Debug\PrintHelloWorld.csprojResolveAssemblyReference.cache
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\PrintHelloWorld\obj\Debug\PrintHelloWorld.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\PrintHelloWorld\obj\Debug\PrintHelloWorld.pdb
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\PrintHelloWorld\bin\Debug\GetHelloWorldTextLib.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\PrintHelloWorld\bin\Debug\GetHelloWorldTextLib.pdb

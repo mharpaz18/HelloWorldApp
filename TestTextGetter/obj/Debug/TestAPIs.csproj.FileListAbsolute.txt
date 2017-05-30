@@ -1,0 +1,8 @@
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\TestTextGetter\bin\Debug\TestTextGetter.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\TestTextGetter\bin\Debug\TestTextGetter.pdb
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\TestTextGetter\bin\Debug\GetHelloWorldTextLib.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\TestTextGetter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\TestTextGetter\bin\Debug\GetHelloWorldTextLib.pdb
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\TestTextGetter\obj\Debug\TestAPIs.csprojResolveAssemblyReference.cache
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\TestTextGetter\obj\Debug\TestTextGetter.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\TestTextGetter\obj\Debug\TestTextGetter.pdb

@@ -1,0 +1,4 @@
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\GetHelloWorldTextLib\bin\Debug\GetHelloWorldTextLib.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\GetHelloWorldTextLib\bin\Debug\GetHelloWorldTextLib.pdb
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\GetHelloWorldTextLib\obj\Debug\GetHelloWorldTextLib.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\GetHelloWorldTextLib\obj\Debug\GetHelloWorldTextLib.pdb

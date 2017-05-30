@@ -1,0 +1,13 @@
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csprojResolveAssemblyReference.cache
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\bin\Debug\GetHelloWorldTextLib.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\bin\Debug\PrintHelloWorld.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\bin\Debug\GetHelloWorldTextLib.pdb
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\bin\Debug\PrintHelloWorld.pdb
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\bin\Debug\TestTextGetter.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dropbox\Documents\Visual Studio 2015\Projects\HelloWorldApp\HelloWorldConsoleApp\bin\Debug\TestTextGetter.pdb
