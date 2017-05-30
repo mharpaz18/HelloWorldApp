@@ -19,12 +19,12 @@ namespace HelloWorldConsoleApp
             //The design patterns used here are 2  Factory Design patterns (one to get a concrete instance of the TextGetter and one to get a concrete instance of the TextPrinter class)
             // The second, less obvious design pattern used here is the Bridge pattern:  notice that the concrete impl. of TextGetter is passed to the concrete impl. of TextPrinter.  (Double abstraction - loosely coupled)
 
-            //IGetText textGetterClass = HelloWorldTextFactory.GetHelloWorldTextClass(strTextGettterClass);  // use factory method to return correct concrete class
-            //IPrintText textPrinterClass = PrintHelloWorldFactory.GetPrintHelloWorldClass(strPrintTextClass, textGetterClass);  //use factory method to return concrete class
-            //                                                                                                          //the factory is also passed the concrete class of TextGetter
-            //textPrinterClass.PrintHelloWorldBold();
-            //textPrinterClass.PrintHelloWorldPlain();
-            //textPrinterClass.PrintHelloWorldLight();
+            IGetText textGetterClass = HelloWorldTextFactory.GetHelloWorldTextClass(strTextGettterClass);  // use factory method to return correct concrete class
+            IPrintText textPrinterClass = PrintHelloWorldFactory.GetPrintHelloWorldClass(strPrintTextClass, textGetterClass);  //use factory method to return concrete class
+                                                                                                                               //the factory is also passed the concrete class of TextGetter
+            textPrinterClass.PrintHelloWorldBold();
+            textPrinterClass.PrintHelloWorldPlain();
+            textPrinterClass.PrintHelloWorldLight();
 
             //The purpose of the Bridge Pattern is that any TextGetter implementation can be combined with any TextPrinter implementation.
             // so that for instance  you can use a TextPrinter for Database (DBPrinter concrete class) with TextGetter for web (GetWebText concrete class) (end result:  text appropriate for web is written to database)
@@ -34,12 +34,12 @@ namespace HelloWorldConsoleApp
 
 
             //Additional Example #1
-            IGetText textGetterClass = HelloWorldTextFactory.GetHelloWorldTextClass("Web");  // use factory method to return correct concrete class
-            IPrintText textPrinterClass = PrintHelloWorldFactory.GetPrintHelloWorldClass("PrintToDB", textGetterClass);  //use factory method to return concrete class
-                                                                                                                         //the factory is also passed the concrete class of TextGetter
-            textPrinterClass.PrintHelloWorldBold();
-            textPrinterClass.PrintHelloWorldPlain();
-            textPrinterClass.PrintHelloWorldLight();
+            //IGetText textGetterClass = HelloWorldTextFactory.GetHelloWorldTextClass("Web");  // use factory method to return correct concrete class
+            //IPrintText textPrinterClass = PrintHelloWorldFactory.GetPrintHelloWorldClass("PrintToDB", textGetterClass);  //use factory method to return concrete class
+            //                                                                                                             //the factory is also passed the concrete class of TextGetter
+            //textPrinterClass.PrintHelloWorldBold();
+            //textPrinterClass.PrintHelloWorldPlain();
+            //textPrinterClass.PrintHelloWorldLight();
 
 
             //Additional Example #2
